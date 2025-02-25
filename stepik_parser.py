@@ -1,6 +1,6 @@
-import requests
 import json
 import os
+import requests
 
 
 class StepikParser:
@@ -28,31 +28,31 @@ class StepikParser:
         try:
             response = requests.get(url).json()
             return response['courses'], response['meta']['has_next']
-        except Exception as error:
+        except ValueError:
             return [], True
 
 
 if __name__ == '__main__':
-    folder_path = 'parsed_data'
-    file_path = os.path.join(folder_path, 'stepik_courses.json')
+    FOLDER_PATH = 'parsed_data'
+    FILE_PATH = os.path.join(FOLDER_PATH, 'stepik_courses.json')
 
-    if not os.path.exists(folder_path):
-        os.makedirs(folder_path)
-    if not os.path.exists(file_path):
-        with open(file_path, 'w') as f:
+    if not os.path.exists(FOLDER_PATH):
+        os.makedirs(FOLDER_PATH)
+    if not os.path.exists(FILE_PATH):
+        with open(FILE_PATH, 'w', encoding='utf-8') as f:
             pass
 
     parser = StepikParser()
     result = []
-    cnt = 0
+    CNT = 0
 
-    with open(file_path, 'a', encoding='utf-8') as file:
+    with open(FILE_PATH, 'a', encoding='utf-8') as file:
         for courses in parser.get_data():
             for course in courses:
                 file.write(json.dumps(course, ensure_ascii=False) + '\n')
             result.extend(courses)
-            cnt += 1
+            CNT += 1
 
-            if cnt % 100 == 0:
-                print(f'i: {cnt}, courses length: {len(result)}')
+            if CNT % 100 == 0:
+                print(f'i: {CNT}, courses length: {len(result)}')
                 print()
