@@ -33,7 +33,7 @@ class StepikParser:
 
 
 if __name__ == '__main__':
-    FOLDER_PATH = 'parsed_data'
+    FOLDER_PATH = '../parsed_data'
     FILE_PATH = os.path.join(FOLDER_PATH, 'stepik_courses.json')
 
     if not os.path.exists(FOLDER_PATH):
