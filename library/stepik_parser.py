@@ -26,7 +26,7 @@ class StepikParser:
     @staticmethod
     def fetch_url(url: str):
         try:
-            response = requests.get(url).json()
+            response = requests.get(url, timeout = 120).json()
             return response['courses'], response['meta']['has_next']
         except ValueError:
             return [], True
