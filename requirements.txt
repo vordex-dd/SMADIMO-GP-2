@@ -1,2 +1,3 @@
 pylint
 requests
+bs4
