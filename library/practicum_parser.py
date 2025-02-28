@@ -1,7 +1,7 @@
-import requests
 import json
 import logging
 import os
+import requests
 from bs4 import BeautifulSoup
 from logger import LoggerSettings
 
@@ -13,9 +13,10 @@ class PracticumParser:
     def get_data(self):
         logging.info('Start fetching Yandex Practicum')
         try:
-            response = requests.get(self.url)
+            response = requests.get(self.url, timeout=120)
         except ValueError as error:
-            logging.error('Failed to scrap data from Yandex Practicum', error)
+            logging.error('Failed to scrap data from Yandex Practicum')
+            logging.error(error)
             return []
         soup = BeautifulSoup(response.text, 'lxml')
 
@@ -24,7 +25,7 @@ class PracticumParser:
             logging.info(f'Fetched {len(courses)} from Yandex Practicum')
         else:
             logging.error('Failed to scrap data from Yandex Practicum')
-        all_courses = list()
+        all_courses = []
 
         for i, course in enumerate(courses):
             tags_res = course.find_all('p', class_='prof-card__tag')
