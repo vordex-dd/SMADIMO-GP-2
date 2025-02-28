@@ -1,7 +1,7 @@
 import json
 import logging
-import os
 import requests
+from check_directory import check_directory
 from bs4 import BeautifulSoup
 from logger import LoggerSettings
 
@@ -58,18 +58,10 @@ class PracticumParser:
 
 if __name__ == '__main__':
     LoggerSettings.set_up()
-
-    FOLDER_PATH = './../parsed_data'
-    FILE_PATH = os.path.join(FOLDER_PATH, 'practicum_courses.json')
-
-    if not os.path.exists(FOLDER_PATH):
-        os.makedirs(FOLDER_PATH)
-    if not os.path.exists(FILE_PATH):
-        with open(FILE_PATH, 'w', encoding='utf-8') as f:
-            pass
+    file_path = check_directory('practicum_courses.json')
 
     parser = PracticumParser()
 
-    with open(FILE_PATH, 'a', encoding='utf-8') as file:
+    with open(file_path, 'a', encoding='utf-8') as file:
         for course_dict in parser.get_data():
             file.write(json.dumps(course_dict, ensure_ascii=False) + '\n')
