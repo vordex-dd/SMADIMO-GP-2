@@ -25,7 +25,7 @@ class CourseraParser:
             logging.error(error)
             return []
 
-##### dmkima
+
 if __name__ == '__main__':
     LoggerSettings.set_up()
     file_path = check_directory('coursera_courses.json')
