@@ -14,16 +14,18 @@ class CourseraParser:
         params = {
             'start': 0,
             'limit': 2000,
-            'fields': 'name,description,partnerIds,instructorIds,primaryLanguages,workload,duration,isTranslate'
+            'fields': 'name,description,partnerIds,instructorIds,\
+            primaryLanguages,workload,duration,isTranslate' 
         }
         try:
-            response = requests.get(self.base_path, params=params).json()
+            response = requests.get(self.base_path, params=params, timeout=120).json()
             logging.info('Finish fetching Coursera API')
             return response['elements']
         except ValueError as error:
             logging.error(error)
+            return []
 
-
+##### dmkima
 if __name__ == '__main__':
     LoggerSettings.set_up()
     file_path = check_directory('coursera_courses.json')
