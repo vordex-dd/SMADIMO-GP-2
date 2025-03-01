@@ -2,7 +2,7 @@
 ignore=tests
 
 [MESSAGES CONTROL]
-disable=C0114,C0115,C0116,R0903,W1203
+disable=C0114,C0115,C0116,R0903,R0801,W1203
 
 [REPORTS]
 output-format = text
@@ -13,7 +13,7 @@ good-names=i,j,k,ex,Run,_,logger
 variable-rgx=[a-z_][a-z0-9_]{0,30}$
 
 [FORMAT]
-max-line-length=100
+max-line-length=120
 indent-string='    '
 
 [DESIGN]
