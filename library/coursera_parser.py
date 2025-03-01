@@ -19,8 +19,9 @@ class CourseraParser:
         }
         try:
             response = requests.get(self.base_path, params=params, timeout=120).json()
+            elements = response['elements']
             logging.info('Finish fetching Coursera API')
-            return response['elements']
+            return elements
         except ValueError as error:
             logging.error(error)
             return []
