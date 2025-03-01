@@ -15,7 +15,7 @@ class CourseraParser:
             'start': 0,
             'limit': 2000,
             'fields': 'name,description,partnerIds,instructorIds,\
-            primaryLanguages,workload,duration,isTranslate' 
+            primaryLanguages,workload,duration,isTranslate'
         }
         try:
             response = requests.get(self.base_path, params=params, timeout=120).json()
