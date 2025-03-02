@@ -24,21 +24,21 @@
 
 
 ## Используемые скрипты
-Папка [library](./library) служит хранилищем для питоновских скриптов. На данный момент имеем скрипты:
+Папка [scripts](./scripts) служит хранилищем для питоновских скриптов. На данный момент имеем скрипты:
 
-[logger](./library/logger.py) - класс для настройки логера (задает необходимые конфиги, уровни логирования)
+[logger](./scripts/logger.py) - класс для настройки логера (задает необходимые конфиги, уровни логирования)
 
-[stepik_parser](./library/stepik_parser.py) - класс для парсинга stepika
+[stepik_parser](./scripts/stepik_parser.py) - класс для парсинга stepika
 
-[practicum_parser](./library/practicum_parser.py) - класс для скрепинга яндекс практикума
+[practicum_parser](./scripts/practicum_parser.py) - класс для скрепинга яндекс практикума
 
-[coursera_api_types](./library/coursera_api_types.py) - enum с типами api для запроса на coursera
+[coursera_api_types](./scripts/coursera_api_types.py) - enum с типами api для запроса на coursera
 
-[coursera_parser](./library/coursera_parser.py) - класс для парсинга coursera
+[coursera_parser](./scripts/coursera_parser.py) - класс для парсинга coursera
 
-[linkedin_parser](./library/linkedin_parser.py) - класс для парсинга linkedin (данный парсинг у нас так и не получился, но мы его оставили, так как там делается несколько интересных api запросов (за токеном и за данными))
+[linkedin_parser](./scripts/linkedin_parser.py) - класс для парсинга linkedin (данный парсинг у нас так и не получился, но мы его оставили, так как там делается несколько интересных api запросов (за токеном и за данными))
 
-[check_directory](./library/check_directory.py) - метод для определения директории сокранения данных
+[check_directory](./scripts/check_directory.py) - метод для определения директории сокранения данных
 
 ## Данные
 
