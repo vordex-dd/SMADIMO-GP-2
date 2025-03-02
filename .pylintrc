@@ -2,7 +2,7 @@
 ignore=tests
 
 [MESSAGES CONTROL]
-disable=C0114,C0115,C0116,R0903,R0801,W1203
+disable=C0114,C0115,C0116,R0903,R0801,R1705,W1203
 
 [REPORTS]
 output-format = text

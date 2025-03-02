@@ -63,5 +63,4 @@ if __name__ == '__main__':
     parser = PracticumParser()
 
     with open(file_path, 'a', encoding='utf-8') as file:
-        for course_dict in parser.get_data():
-            file.write(json.dumps(course_dict, ensure_ascii=False) + '\n')
+        file.write(json.dumps(parser.get_data(), ensure_ascii=False, indent=4) + '\n')
