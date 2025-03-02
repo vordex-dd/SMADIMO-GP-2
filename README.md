@@ -1,4 +1,4 @@
-# SMADIMO-GP-2
+# SMADIMO-GP-2 ![progress_check](https://github.com/vordex-dd/SMADIMO-GP-2/actions/workflows/pylint.yml/badge.svg)
 Групповой проект N2 по предмету СМАДИМО в рамках обучения в НИУ ВШЭ.
 
 Состав команды:
@@ -148,7 +148,9 @@ LoggerSettings.set_up()
 ```python
 logging.debug(...)
 logging.info(...)
+logging.warning(...)
 logging.error(...)
+logging.critical(...)
 ```
 
 ## Используемые библиотеки
