@@ -1,0 +1,1934 @@
+[
+    {
+        "title": "Python",
+        "duration_amount": "4",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Дизайнер интерьеров с нуля до PRO",
+        "duration_amount": "6",
+        "duration_units": "месяцев",
+        "is_popular": false
+    },
+    {
+        "title": "Excel + Google Таблицы с нуля до PRO",
+        "duration_amount": "4",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Методист образовательных программ",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Быстрый старт на маркетплейсах",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Как продавать на Wildberries",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Разработчик игр на Unity с нуля",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Менеджмент и маркетинг в индустрии спорта",
+        "duration_amount": "4",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Битмейкинг с нуля",
+        "duration_amount": "4",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Музыкальный менеджер",
+        "duration_amount": "4",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Инженерия требований в машиностроении",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Кто я и чего хочу?",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": true
+    },
+    {
+        "title": "Java-разработчик",
+        "duration_amount": "4",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Как наладить контакт с собой и миром",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Управление строительством дома",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Revit для начинающих",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Основы мировой истории. Бесплатный курс",
+        "duration_amount": "4",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Старт в DevOps: системное администрирование для начинающих",
+        "duration_amount": "4",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Ландшафтный дизайн с нуля",
+        "duration_amount": "4",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Финансовый аналитик",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Аналитик данныхс нуля",
+        "duration_amount": "4",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Интернет-маркетолог с нуля",
+        "duration_amount": "4",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Психология спортивных побед",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Основы 2D-графики",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Основы съёмки и монтажа",
+        "duration_amount": "5",
+        "duration_units": "месяцев",
+        "is_popular": false
+    },
+    {
+        "title": "Битмейкинг",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Искусство быть вместе. Большой практический курс о партнёрских отношениях",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": true
+    },
+    {
+        "title": "Осознанная карьера. Как найти дело по душе",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "BIM-координатор",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Понять философию: точки входа",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Мир Страдающего Средневековья",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "AutoCAD с нуля до PRO",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Персональный стилист",
+        "duration_amount": "4",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Трейдинг",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Финансовое моделирование",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Копирайтинг от А до Я 2.0",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Сценарист видеоигр",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Покер и логическое мышление",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Монтаж в Adobe Premiere Pro",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Психология подростка: взрослеем вместе",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Как изменить привычки и повысить качество жизни",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Философия: современный футуризм",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Астрономия и космос",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Основы тестирования",
+        "duration_amount": "4",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Autodesk Maya 2.0",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Веб-дизайн 3.0",
+        "duration_amount": "9",
+        "duration_units": "месяцев",
+        "is_popular": false
+    },
+    {
+        "title": "Стример",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Сторителлинг",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Менеджмент в индустрии красоты",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Как написать сценарий к сериалу",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Кройка и шитьё",
+        "duration_amount": "4",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "SEO-специалист: курс от AMDG",
+        "duration_amount": "4",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "UX-дизайнер с нуля до PRO",
+        "duration_amount": "6",
+        "duration_units": "месяцев",
+        "is_popular": false
+    },
+    {
+        "title": "Финансы для предпринимателя",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Личный бренд спортсмена",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Motion-дизайн. Основа",
+        "duration_amount": "8",
+        "duration_units": "месяцев",
+        "is_popular": false
+    },
+    {
+        "title": "Figma с нуля до PRO",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Продюсер рекламного ролика",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Бренд-менеджер",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Управление проектами",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Photoshop с нуля до PRO",
+        "duration_amount": "4",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Event-менеджер с нуля",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Управление в креативных индустриях",
+        "duration_amount": "4",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "2D PRO",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Сведение и мастеринг",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Философия искусственного интеллекта",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Коммерческая иллюстрация с нуля до PRO",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "MS Office и инструменты Google",
+        "duration_amount": "6",
+        "duration_units": "месяцев",
+        "is_popular": false
+    },
+    {
+        "title": "Монтаж в DaVinci",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Уровень PRO. Монтаж в кино",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Управление командами",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Как зарабатывать на презентациях",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "VR-разработчик на Unreal Engine 4",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "SQL для анализа данных",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Видеопродакшн в Unreal Engine 4",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Продвинутый монтаж",
+        "duration_amount": "5",
+        "duration_units": "месяцев",
+        "is_popular": false
+    },
+    {
+        "title": "Автоматизированное тестирование на Java",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Продуктовый маркетолог",
+        "duration_amount": "6",
+        "duration_units": "месяцев",
+        "is_popular": false
+    },
+    {
+        "title": "HR-аналитика с нуля",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Креативная реклама",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Node.js",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "PowerPoint + Google Презентации",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Основы контент-маркетинга",
+        "duration_amount": "4",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "3D-моделирование в ZBrush с нуля",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Куратор онлайн-курсов",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Эмоциональный интеллект и лидерство",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Мобильная фотография",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Маркетинг для предпринимателей",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Дизайн ювелирных украшений",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Продуктовые исследования:  CX и UX",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Ableton Live",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Иллюстрация на iPad",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Дизайнер одежды",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Adobe Illustrator для иллюстрации",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Аналитика для руководителей и владельцев бизнеса",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Контент-креатор",
+        "duration_amount": "4",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Креативный копирайтинг",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Личный бренд",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Искусство коммуникации",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Ретушь для фотографа",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Customer Development",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Таргетолог PRO",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Тайм-менеджмент",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Дизайн мебели",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Digital-стратегия",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Скетчинг для дизайнеров интерьера",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Операционный менеджмент и непрерывные улучшения",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Интерьерная фотография",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Стресс-менеджмент",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Персонажная иллюстрация",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Сервисный дизайн и клиентский опыт",
+        "duration_amount": "4",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Archicad 27",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Флористика с нуля",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Коммерческая редактура",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Конструирование одежды",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Adobe Lightroom",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Скетчинг на планшете",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Шрифт в дизайне",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Дизайнер на фрилансе в Digital",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Элементарная музыкальная теория",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "InDesign",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Проектирование и визуализация в SketchUp",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Портретная фотография",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Capture One",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Ландшафтный дизайн общественных пространств",
+        "duration_amount": "4",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Защита интеллектуальной собственности",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Ландшафтный скетчинг",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Менеджер по обучению и развитию персонала",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Fashion-фотография",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Шахматы с нуля",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Корпоративные финансы: планирование и анализ",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Основы рисунка",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Agile: Scrum и Kanban в работе над продуктом",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Репутационный менеджмент и маркетинг",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Основы колористики и композиции",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "VFX в Houdini",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Онлайн-репетитор",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "SketchUp для ландшафтных дизайнеров",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Концепт-арт в играх",
+        "duration_amount": "4",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "История дизайна интерьеров",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Медиапланирование",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Управление конфликтами",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Photoshop для архитекторов и дизайнеров интерьера",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Кондитер с нуля",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Предметная фотография",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Продакт-менеджмент",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Маркетинг в ресторанном бизнесе",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Качественные исследования",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Звукозапись",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Юнит-экономика и метрики продукта",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Фуд-фотография",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Сонграйтинг",
+        "duration_amount": "4",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Шахматы middle",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Шахматы PRO",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Clo 3D для fashion-дизайнеров",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Режиссёрский тритмент",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Blender.Design",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Концепт-арт в кино",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Нарративный дизайн",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Продюсер игр",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Photoshop для CG-специалистов",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Дизайн нижнего белья и купальников",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Инвестиционная оценка",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Визажист с нуля",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Бизнес-план: от идеи до реализации",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Количественные исследования",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Как открыть кофейню: от бизнес-плана до управления",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Cinema 4D с нуля",
+        "duration_amount": "4",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Менеджер по развитию бизнеса",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Личный фитнес-тренер",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "FL Studio",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Основы визуализации  интерьеров в 3ds Max",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "SMM-стратегия",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Монетизация в играх",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Middle-разработчик игр на Unity",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Автоматизированное тестирование на Python",
+        "duration_amount": "9",
+        "duration_units": "месяцев",
+        "is_popular": false
+    },
+    {
+        "title": "Revit для дизайнеров интерьеров",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Личные инвестиции",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Adobe Illustrator с нуля",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Substance Painter для игр",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Инфраструктурная платформа на основе Kubernetes",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Запуск и продвижение YouTube-канала",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Книжная иллюстрация",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Текстильное декорирование",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Введение в операторское мастерство",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Adobe Illustrator для fashion-дизайнера",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Инструктор тренажёрного зала",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Пошив нижнего белья и купальников",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Как выбирать книги",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Свадебная фотография",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Photoshop для иллюстраторов",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "PHP-разработчик.  Базовый уровень",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Спецпроекты и нативная реклама",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "SEO PRO",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Менеджмент в здравоохранении",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Введение в Data Science",
+        "duration_amount": "6",
+        "duration_units": "месяцев",
+        "is_popular": false
+    },
+    {
+        "title": "Младший школьник. Большая инструкция для родителей",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "After Effects с нуля до PRO",
+        "duration_amount": "4",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Наши эмоции: учимся понимать, выражать и управлять ими",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": true
+    },
+    {
+        "title": "Визуальная теория музыки",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Русский язык в эпоху Digital",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Креативный макияж",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Экстерьерная визуализация",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Рекламная иллюстрация",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Фотография для  CG-специалистов",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Старт карьеры в онлайн-образовании",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Здоровая самооценка. Как обрести уверенность, принять и полюбить себя",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": true
+    },
+    {
+        "title": "Школа с удовольствием:  как научить ребёнка учиться",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "TouchDesigner. Базовый курс",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Как стать продавцом на Ozon",
+        "duration_amount": "4",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "3D-художник по окружению",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Продюсер YouTube-шоу",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Выгорание: как вернуть интерес к работе и жизни",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Международное SEO",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Рендер с нуля",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Data Analyst с нуля до Junior",
+        "duration_amount": "9",
+        "duration_units": "месяцев",
+        "is_popular": false
+    },
+    {
+        "title": "Основы генетики. Бесплатный курс",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Пиши грамотно – продвигай личный бренд",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Sound Design с нуля до PRO",
+        "duration_amount": "4",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Python-фреймворк Django",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Продюсирование онлайн-курсов",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Преподаватель английского",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Справляемся с тревогой и беспокойством – бесплатный курс",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Интернет-маркетинг PRO",
+        "duration_amount": "4",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Как правильно питаться: нутрициология для начинающих",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Как управлять своим здоровьем",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "1С:Бухгалтерия 8, редакция 3.0",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Английский для переговоров и комфортного общения",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Основы аналитики 1C",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Как найти работу: поиск вакансий, резюме, собеседование. Бесплатный курс",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Продюсер музыкальных видео",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Здесь начинается ваш путь к дизайну",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Управление клиентским сервисом",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Трафик-менеджер",
+        "duration_amount": "4",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Machine Learning с нуля до Junior",
+        "duration_amount": "9",
+        "duration_units": "месяцев",
+        "is_popular": false
+    },
+    {
+        "title": "Звук в играх",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Ремонт своими руками – бесплатный курс",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Психология видеоигр",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Создайте участок мечты – бесплатный курс",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "3D-моделирование украшений в Rhinoceros",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Финграмотность: учимся управлять бюджетом, копить и инвестировать",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Озеленение и декорирование квартиры – бесплатный курс",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Продуктовая аналитика",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Введение в  программирование",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Продвижение на Wildberries и Ozon",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Дизайнер сайтов на Tilda",
+        "duration_amount": "4",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "3D-художник по персонажам",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Геймификатор",
+        "duration_amount": "4",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Продвижение во ВКонтакте",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Пилотирование дронов",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Создание волос в Houdini",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Карьера разработчика: трудоустройство и развитие",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Создание 3D-персонажа",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Как подготовиться к профессиональной конференции",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Python для инженеров",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Администрирование ОС Linux",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Анализ данных с дронов",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Бесплатно: Как создаётся рекламный ролик?",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Контекстная реклама с нуля",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "(Не)детский интернет. Бесплатный курс",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Математика для Data Science",
+        "duration_amount": "4",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Горшечные растения",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Игровой баланс",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "SMM-специалист с нуля",
+        "duration_amount": "4",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Английский для детей от 5 до 10 лет: новейшая методика с ИИ",
+        "duration_amount": "6",
+        "duration_units": "месяцев",
+        "is_popular": false
+    },
+    {
+        "title": "3D-моделирование в Maya",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Digital Fashion",
+        "duration_amount": "5",
+        "duration_units": "месяцев",
+        "is_popular": false
+    },
+    {
+        "title": "Linux для робототехников",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Алгоритмы и структуры данных для разработчиков",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Специалист по кибербезопасности",
+        "duration_amount": "6",
+        "duration_units": "месяцев",
+        "is_popular": false
+    },
+    {
+        "title": "Английский язык для подростков: новейшая методика с ИИ",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Математика для робототехников",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "FPV-пилотирование",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Введение в беспилотную авиацию",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Нейросети. Практический курс",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "C++ для робототехников",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Интенсивный курс обучения английскому: много практики",
+        "duration_amount": "4",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Английский для начинающих: полный курс",
+        "duration_amount": "4",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Английский для взрослых",
+        "duration_amount": "4",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Как справляться с неопределённостью.  Бесплатный курс",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Создание игровой локации",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Таргетолог 3.0",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "3D-аниматор с нуля до PRO",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Бесплатная профориентация",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Эволюция жизни на Земле. Бесплатный курс",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Твой путь. Как изменить жизнь. Бесплатный курс",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Основы проектирования и 3D-моделирования",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Реверс-инжиниринг",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Продвижение в Telegram",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Технологии 3D-печати",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "3 миллиона за игры",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Excel с нуля до PRO",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Стилист по волосам",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Автономная навигация мобильных роботов",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Клиенты из социальных сетей",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Здесь начинается ваш путь в маркетинг",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Введение в аналитику",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Макияж без макияжа: создаём идеальный нюд",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Введение в игровую индустрию",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Левел-дизайнер",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "ChatGPT: практический курс",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Нейросети для работы с графикой и видео",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Геймдизайн. Концепт игры",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "HR-менеджер: курс и тренажёр",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "3D-моделирование для начинающих",
+        "duration_amount": "4",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Основы электроники",
+        "duration_amount": "4",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Пиксель-арт",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Графический дизайнер с нуля",
+        "duration_amount": "8",
+        "duration_units": "месяцев",
+        "is_popular": false
+    },
+    {
+        "title": "Веб-вёрстка",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "PR-менеджер",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "JavaScript",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Создание Telegram-бота для бизнеса с нуля",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Продакт-менеджмент: тренажёр для middle-уровня",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Электронная музыка 3.0",
+        "duration_amount": "6",
+        "duration_units": "месяцев",
+        "is_popular": false
+    },
+    {
+        "title": "Менеджер отдела продаж",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "3D-визуализатор: портфолио и карьера",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Введение в health-коучинг",
+        "duration_amount": "2",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "TypeScript",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    },
+    {
+        "title": "Создание игры без программирования",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Основы грудного вскармливания",
+        "duration_amount": "1",
+        "duration_units": "месяц",
+        "is_popular": false
+    },
+    {
+        "title": "Личные финансы: инвестиции и трейдинг",
+        "duration_amount": "5",
+        "duration_units": "месяцев",
+        "is_popular": false
+    },
+    {
+        "title": "Авитолог",
+        "duration_amount": "3",
+        "duration_units": "месяца",
+        "is_popular": false
+    }
+]

@@ -22,12 +22,14 @@ class PracticumParser:
 
         courses = soup.find_all('li', class_="prof-card prof-window-cards__item")
         if len(courses) > 0:
-            logging.info(f'Fetched {len(courses)} from Yandex Practicum')
+            logging.info(f'Fetched {len(courses)} courses from Yandex Practicum')
         else:
             logging.error('Failed to scrap data from Yandex Practicum')
         all_courses = []
 
         for i, course in enumerate(courses):
+            logging.debug(f'Start fetching {i} course')
+
             tags_res = course.find_all('p', class_='prof-card__tag')
             tags = [tag.text.strip() for tag in tags_res if tag]
 
