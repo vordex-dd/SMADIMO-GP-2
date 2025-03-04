@@ -34,9 +34,6 @@ class SkillboxParser:
         button_press_counter = 0
         while True:
             try:
-                WebDriverWait(self.driver, 20).until(
-                    ec.presence_of_element_located((By.XPATH, more_button_xpath))
-                )
                 button = WebDriverWait(self.driver, 20).until(
                     ec.element_to_be_clickable((By.XPATH, more_button_xpath))
                 )
